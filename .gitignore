@@ -1,0 +1,6 @@
+tmp/**
+viminfo.tmp
+viminfo
+*.??~
+bundle/**
+.netrwhist
